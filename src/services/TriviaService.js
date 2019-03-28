@@ -1,5 +1,3 @@
-export default class TriviaService {
+export default class TriviaService {}
 
-}
-
- export const triviaService = new TriviaService();
+export const triviaService = new TriviaService();

@@ -1,13 +1,15 @@
 <template>
     <div>
-        xexe
-
+        <chuck/>
     </div>
 </template>
 
 <script>
+import Chuck from './Chuck'
 export default {
-
+    components:{
+        Chuck
+    }
 }
 </script>
 
